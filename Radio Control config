@@ -37,6 +37,7 @@ Dark
 # field1:genre, field2:station name, field3: station description, field4: station http://<ip>:<port> or https://<ip>:<port>
 # Note that genre must match case-insensitive a value previously entered in section [GENRE]
 Synth Wave | RetroSynth | RetroSynth FM | http://144.217.203.184:9448/stream | *
+Chill | Sleeping Pill | Ambient Sleeping Pill | http://radio.stereoscenic.com/asp-h
 Chill | Cryosleep | Echoes of BLUEMARS - Cryosleep | http://streams.echoesofbluemars.org:8000/cryosleep
 Chill | Goa | Suburbs of Goa | http://ice1.somafm.com/suburbsofgoa-128-mp3
 Chill | New Age 1 | Trancemission.FM Radio New Age 2 | http://87.230.21.161:6667
